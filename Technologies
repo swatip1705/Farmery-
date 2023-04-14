@@ -1,0 +1,4 @@
+Technologies Used:
+1. MERN ( MongoDB, Express, React, Node)
+2. Stripe ( For payment Purpose)
+3. JWT ( JSON web Token) - For providing security 
